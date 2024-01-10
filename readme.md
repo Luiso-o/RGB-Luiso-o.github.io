@@ -2,7 +2,7 @@
 
 * Este proyecto es un explorador interactivo de colores que permite a los usuarios personalizar dinámicamente el fondo de la página web. Al utilizar controles deslizantes para los componentes de color rojo, verde y azul, los usuarios pueden experimentar y ver cómo estos cambios afectan la apariencia visual de la página.
 
-* <a href="https://RGB-luiso-o.github.io/" target="_blank">Link para ver el proyecto con GitHub Pages 😊🔗</a>
+* <a href="https://RGB/luiso-o.github.io/" target="_blank">Link para ver el proyecto con GitHub Pages 😊🔗</a>
 
 ### Características Principales:
 
