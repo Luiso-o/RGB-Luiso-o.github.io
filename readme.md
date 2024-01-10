@@ -29,3 +29,5 @@
 * Este proyecto no solo proporciona una herramienta práctica para personalizar el diseño de una página web, sino que también fomenta la experimentación y la creatividad con combinaciones de colores. ¡Sumérgete en la paleta de posibilidades y descubre tu combinación perfecta! 🚀
 
 * <a href = "https://www.youtube.com/watch?v=koiPxFFiqJ4&t=11431s">⭐️ Proyectos ⭐️ Colores RGB con Sliders</a>
+
+![Capture](https://github.com/Luiso-o/RGB-Luiso-o.github.io/assets/128043647/8a9da57f-0680-4e71-bcc8-093d1249ccc7)
